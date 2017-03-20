@@ -4,19 +4,18 @@ All the source code to interface the platform of the wheelchair simulator with U
 Link to the published paper: TBA
 
 
-### BOM
-2 encoders: <a href="https://www.sparkfun.com/products/11102">https://www.sparkfun.com/products/11102
+### BOM (Bill of materials)
+* 2 encoders: <a href="https://www.sparkfun.com/products/11102">https://www.sparkfun.com/products/11102
+* 4 rollers: <a href="http://dk.rs-online.com/web/p/transportbandsruller/7613237/">http://dk.rs-online.com/web/p/transportbandsruller/7613237/
+* 2 large wheels: <a href="https://www.pololu.com/product/1430">https://www.pololu.com/product/1430
+* 1 Teensy 3.2: <a href="https://www.sparkfun.com/products/13736">https://www.sparkfun.com/products/13736
 
-4 rollers: <a href="http://dk.rs-online.com/web/p/transportbandsruller/7613237/">http://dk.rs-online.com/web/p/transportbandsruller/7613237/
-2 large wheels: <a href="https://www.pololu.com/product/1430">https://www.pololu.com/product/1430
-1 Teensy 3.2: <a href="https://www.sparkfun.com/products/13736">https://www.sparkfun.com/products/13736
+* 2 3D-printed parts, which can be found in this repo
 
-2 3D-printed parts, which can be found in this repo
-
-1 PCB that will fit the Teensy and the wires from the two encoders
-2 springs
-8 angle bars from the locat hardware shop
-Misc. screws and nuts (use lock-nuts when available)
+* 1 PCB that will fit the Teensy and the wires from the two encoders
+* 2 springs
+* 8 angle bars from the locat hardware shop
+* Misc. screws and nuts (use lock-nuts when available)
 
 
 
