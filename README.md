@@ -1,24 +1,27 @@
-# Low_cost_wheelchair_simulator
-All the source code to interface the platform of the wheelchair simulator with Unity. The total cost (without VR, computer, etc) is approx. 250 USD and will take 10 hours to assemble.
+# Low-cost wheelchair simulator
+Project from the Technical [University of Denmark (DTU)](http://www.dtu.dk/), [department of Management Engineering](http://www.man.dtu.dk/), 2017-2018.
 
-Link to the published paper: TBA
+Wheelchair simulator with physical encoders and a Unity 3D user interface for VR.
 
-
-### BOM (Bill of materials)
-###### Items
-* 2 encoders: <a href="https://www.sparkfun.com/products/11102">https://www.sparkfun.com/products/11102
-* 4 rollers: <a href="http://dk.rs-online.com/web/p/transportbandsruller/7613237/">http://dk.rs-online.com/web/p/transportbandsruller/7613237/
-* 2 large wheels: <a href="https://www.pololu.com/product/1430">https://www.pololu.com/product/1430
-* 1 Teensy 3.2: <a href="https://www.sparkfun.com/products/13736">https://www.sparkfun.com/products/13736
-
-###### 3D printed parts
-* 2 3D-printed parts, which can be found in this repo
-
-###### Misc.
-* 1 PCB that will fit the Teensy and the wires from the two encoders
-* 2 springs
-* 8 angle bars from the locat hardware shop
-* Misc. screws and nuts (use lock-nuts when available)
+![Photo of wheelchair simulator](./documentation/20181012_171058.jpg)
 
 
+## Bill of materials, and mechanical drawings
+The total cost (without VR, computer, etc.) is approximatively 250 USD and takes ~10 hours to assemble.
 
+* [Components for Whee'llConnect](./documentation/Components for Whee'llConnect.pdf)
+
+## Firmware for the Arduino encoders
+* [Wheelchairduino](https://github.com/DTU-R3/Wheelchairduino)
+
+## Unity 3D user interface
+* [Wheelchair Controller Demo.zip](Wheelchair Controller Demo.zip) (excluding 3D objects)
+
+## Contact
+* [John Paulin Hansen](http://orbit.dtu.dk/en/persons/john-paulin-hansen(119e0e25-cbb9-478c-bee2-db6d2d9c4b90).html)
+
+## Publication
+* Submitted - coming soon
+
+## Related
+* See also our [DTU-R3](https://dtu-r3.github.io/) project involving a remotely driving a physical robot.
