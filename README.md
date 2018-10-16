@@ -7,8 +7,6 @@ Wheelchair simulator with physical encoders and a Unity 3D user interface for VR
 
 
 ## Bill of materials, and mechanical drawings
-The total cost (without VR, computer, etc.) is approximatively 250 USD and takes ~10 hours to assemble.
-
 * [Components for Whee'llConnect](./documentation/Components%20for%20Whee'llConnect.pdf)
 
 ## Firmware for the Arduino encoders
